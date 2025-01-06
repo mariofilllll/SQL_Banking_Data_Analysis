@@ -1,24 +1,24 @@
-# SQL Data Analysis Project
+# SQL Banking Data Analysis Project
 
 ## Description
-This project demonstrates the use of SQL for data analysis and database management, focusing on extracting insights from structured datasets.
+This project involves the creation and manipulation of SQL temporary tables to analyze customer behavior and banking transactions. The final output is a denormalized table containing key indicators for further analysis or predictive modeling.
 
 ## Included Files
-- **Progetto profession ai Mario Filizzola.sql:** SQL scripts for data analysis and queries.
+- **Progetto profession ai Mario Filizzola.sql:** SQL script for creating temporary tables and performing the analysis.
 
 ## Objectives
-- Perform complex queries to extract meaningful insights.  
-- Create and manage relational database structures.  
-- Optimize queries for better performance.
+- Extract customer demographic data (e.g., age).  
+- Analyze transaction patterns (inflows and outflows).  
+- Summarize account types and transaction details.  
+- Produce a denormalized table for use in advanced analytics or machine learning.
 
 ## Features
-- Data extraction and transformation using SQL queries.  
-- Creation of relational database schemas.  
-- Execution of advanced joins, aggregations, and filtering.
+- **Temporary Tables:** Used for intermediate calculations without altering the main database.  
+- **Aggregations and Metrics:** Number of transactions, transaction amounts, and customer segmentation.  
+- **Denormalized Output:** A comprehensive table summarizing customer behavior and transaction details.
 
 ## Tools
-- SQL (MySQL/PostgreSQL)  
-- Relational Database Management Systems (RDBMS)
+- MySQL for relational database management and analysis.
 
 ## Contact
 For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
